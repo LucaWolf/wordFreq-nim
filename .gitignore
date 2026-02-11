@@ -1,3 +1,9 @@
 nimcache/
 nimblecache/
 htmldocs/
+
+*.txt
+src/word_freq
+word_freq
+.kilocode/
+deps/
